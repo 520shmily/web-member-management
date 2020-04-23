@@ -1,0 +1,17 @@
+export default {
+  'menu.welcome': '欢迎',
+  'menu.home': '首页',
+  'menu.admin': '系统管理员',
+  'menu.login': '登录',
+  'menu.club': '我的社团',
+  'menu.club.message': '社团简介',
+  'menu.club.photos': '社团风采墙照片',
+  'menu.activity': '社团活动',
+  'menu.activity.newactivity': '发布新活动',
+  'menu.activity.allActivity': '所有活动',
+  'menu.clubmember': '社团会员',
+  'menu.clubmember.addclubmember': '导入会员',
+  'menu.clubmember.allclubmember': '所有会员',
+  'menu.manage': '社团负责人',
+  'menu.suggest': '会员建议',
+};
